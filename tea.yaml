@@ -1,0 +1,9 @@
+project:
+  name: FocusTrackMix2323Node
+  description: Projeto Node.js baseado no FocusTrack, adaptado para Tea.xyz.
+  maintainers:
+    - name: mix2323
+      github: mix2323
+      wallet: 0x70dcec025A5c14274659a32D18AC0c91A688c130
+  repo: https://github.com/mix2323/focustrack-node
+  tags: [productivity, pomodoro, nodejs, express, open-source]
